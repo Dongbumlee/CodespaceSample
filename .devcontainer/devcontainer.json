@@ -25,7 +25,8 @@
                 "shardulm94.trailing-spaces",
                 "tamasfe.even-better-toml",
                 "yzhang.markdown-all-in-one",
-                "ms-azuretools.azure-dev"
+                "ms-azuretools.azure-dev",
+                "ms-python.vscode-pylance"
             ]
         }
     },
