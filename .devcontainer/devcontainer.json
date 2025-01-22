@@ -1,11 +1,11 @@
 {
-    "name": "uv",
+    "name": "python uv, ruff support",
     "build": {
         "context": "..",
         "dockerfile": "Dockerfile",
         "args": {
-            "UV_VERSION": "0.5.13",
-            "DEBIAN_VERSION": "bookworm"
+            "UV_VERSION": "0.5.22",
+            "Py_VERSION": "3.12"
         }
     },
     "features": {
